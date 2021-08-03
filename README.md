@@ -1,2 +1,2 @@
 # Automate the Boring Stuff with Python Solutions- Practice Projects
-My solutions to the projects in [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by [AI Sweigart](http://alsweigart.com/).
+My solutions to the projects in [Automate the Boring Stuff with Python](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/blob/main/AutomateTheBoringStuff.pdf) by [AI Sweigart](http://alsweigart.com/).
