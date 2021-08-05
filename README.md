@@ -3,4 +3,4 @@ My solutions to the projects in [Automate the Boring Stuff with Python](https://
 * Chapter 3: Functions
   * [The Collatz Sequence/Input Validation](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/blob/main/Collatz.ipynb)
 * Chapter 4: Lists
-  * [Comma Code]()/[Character Picture Grid]()
+  * [Comma Code](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/blob/main/CommaCode.ipynb)/[Character Picture Grid]()
