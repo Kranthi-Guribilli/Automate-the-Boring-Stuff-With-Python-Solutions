@@ -1,7 +1,7 @@
 ## Automate the Boring Stuff with Python Solutions- Practice Projects
 #### My solutions to the projects in [Automate the Boring Stuff with Python](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/blob/main/AutomateTheBoringStuff.pdf) by [AI Sweigart](http://alsweigart.com/).<br>
-####  Note: I haven't updated all the links below with the code snippet as I'm not finished all practice projects yet. If you finish it, welcome to pull a request to add your solution !!
-#### [Go through this link for Progress Track!!](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/issues/1)
+####  Note: I haven't updated some of the links below with their code snippets as I'm not finished all practice projects yet. If you finish it, welcome to pull a request to add your solution !!
+*You are welcomed to contribute to the unchecked projects in Progress track. [Go through this link for Progress Track!!](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/issues/1)*
 * Chapter 3: Functions
   * [The Collatz Sequence/Input Validation](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/blob/main/Collatz.ipynb)
 * Chapter 4: Lists
