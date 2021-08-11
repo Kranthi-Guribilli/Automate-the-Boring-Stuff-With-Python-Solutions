@@ -3,7 +3,7 @@
 ####  Note: I haven't updated some of the links below with their code snippets as I'm not finished all practice projects yet. If you finish it, welcome to pull a request to add your solution !!
 *You are welcomed to contribute to the unchecked projects in Progress track. [Go through this link for Progress Track!!](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/issues/1)*
 * Chapter 3: Functions
-  * [The Collatz Sequence/Input Validation](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/blob/main/Collatz.ipynb)
+  * [The Collatz Sequence/Input Validation](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/blob/main/Solutions-PracticeProjects/Collatz.ipynb)
 * Chapter 4: Lists
   * [Comma Code](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/blob/main/CommaCode.ipynb)/[Character Picture Grid](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/blob/main/Character%20picture%20grid.ipynb)
 * Chapter 5: Dictionaries and Structuring Data
