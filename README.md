@@ -9,7 +9,7 @@
 * Chapter 5: Dictionaries and Structuring Data
   * [Fantasy Game Inventory](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/blob/main/Solutions-PracticeProjects/Fantasy%20Game%20Inventory.ipynb) / [List to Dictionary Function for Game Inventory](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/blob/main/Solutions-PracticeProjects/List%20to%20dictionary(Function%20for%20Game%20Inventory).ipynb)
 * Chapter 6 - Manipulating Strings:
-  * [Table Printer](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/blob/main/Solutions-PracticeProjects/TablePrinter-checkpoint.ipynb)
+  * [Table Printer](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/blob/main/Solutions-PracticeProjects/TablePrinter.ipynb)
 * Chapter 7 - Pattern Matching with Regular Expressions:
   * [Strong Password Detection]()
   * [Regex Version of Strip]()
