@@ -11,7 +11,7 @@
 * Chapter 6 - Manipulating Strings:
   * [Table Printer](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/blob/main/Solutions-PracticeProjects/TablePrinter.ipynb)
 * Chapter 7 - Pattern Matching with Regular Expressions:
-  * [Strong Password Detection]()
+  * [Strong Password Detection](https://github.com/Kranthi-Guribilli/Automate-the-Boring-Stuff-With-Python-Solutions/blob/main/Solutions-PracticeProjects/strong_password_detection.ipynb)
   * [Regex Version of Strip]()
 * Chapter 8 - Reading and Writing Files:
   * [Extending the Multiclipboard]()
